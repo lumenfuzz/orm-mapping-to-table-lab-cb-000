@@ -27,3 +27,5 @@ class Student
     student.save
     return student
   end
+
+end
